@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @createdpol
+- 👀 I’m interested in ... Android app development
+- 🌱 I’m currently learning ... Java and kotlin
+- 📫 How to reach me ... don`t
+- ⚡ Learning to code since: 6th of January 2024
